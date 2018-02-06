@@ -337,9 +337,11 @@
     <Compile Include="Assets\Networking\Lobby\Scripts\Lobby\LobbyServerList.cs" />
     <Compile Include="Assets\Networking\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
     <Compile Include="Assets\Scripts\FeetController.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\GameManagerNoNetwork.cs" />
     <Compile Include="Assets\Scripts\HeadController.cs" />
     <Compile Include="Assets\Scripts\MyLobbyHook.cs" />
+    <Compile Include="Assets\Scripts\PlayerLogic.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
